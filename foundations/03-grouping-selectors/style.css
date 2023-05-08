@@ -7,7 +7,7 @@
     background-color: yellow;
 }
 
-.black .yellow {
+.black, .yellow {
     font-size: 28px;
     font: Helvetica, "Times New Roman", san-serif;
 }
